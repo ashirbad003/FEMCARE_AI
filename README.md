@@ -249,7 +249,7 @@ http://localhost:5173
 ### Connect with me
 
 - GitHub: https://github.com/ashirbad003
-- LinkedIn: *Add Your LinkedIn Profile*
+- LinkedIn: https://www.linkedin.com/in/ashirbad003/
 
 ---
 
